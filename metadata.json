@@ -1,0 +1,9 @@
+{
+  "name": "Nūsu AI - Smart Voice Companion",
+  "description": "An intelligent Bengali voice companion assistant with ambient glowing orb, real voice recognition, device task control, and screen assistance inspired by Nūsu AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
